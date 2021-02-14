@@ -1,0 +1,22 @@
+@media (min-width: 1400px) {
+   
+    header{
+       height: 23.5vh;
+       font-size: 20px;
+   }
+   nav>div>img{
+       object-fit: cover;
+       transform: scale(1.4, 1.4);
+   }
+   .image{
+        width: 100vw;
+        height: 100vh;
+   }
+   .container{
+    margin: 4% 15% 0 15%;
+   }
+   .container-artiste {
+    width: 20vw;
+    height: 25vh;
+    }     
+}

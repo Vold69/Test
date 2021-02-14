@@ -1,0 +1,22 @@
+@media (min-width: 661px) and (max-width: 768px) {
+    nav{
+        font-size: large;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .container {
+        margin-left: 9%;
+        margin-right: 9%;
+        width: 83vw;
+    }
+    .image{
+        height: 50vh;
+        background-size: cover;
+    }
+    .image>img {
+        height: 60px;
+        width: 60px;
+        top: 43%;
+        left: 47%;
+    }
+}

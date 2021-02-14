@@ -1,0 +1,20 @@
+@media (min-width: 769px) and (max-width: 1024px) {
+    header{
+        height: 17vh;
+    }
+    nav{
+        font-size: 21px;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    .image{
+        height: 50vh;
+        background-size: cover;
+    }
+    .image>img {
+        height: 65px;
+        width: 65px;    
+        top: 42%;
+        left: 47%;
+    }
+}
